@@ -1,2 +1,2 @@
 # hello-world
-Práctica hello-world
+Esto será un almacén de ideas.
